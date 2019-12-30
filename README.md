@@ -1,4 +1,4 @@
-# 2019 清大企業領航課程-華碩 (Cloud Computing)
+# 2019 清大企業領航人才培育計畫-華碩 (Cloud Computing)
 
 ## 課前準備
 
