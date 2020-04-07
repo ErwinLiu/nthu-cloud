@@ -1,6 +1,3 @@
----
-###### tags: `GitHub` `課程`
----
 # 清大企業領航人才培育計畫-華碩 (Cloud Computing)
 
 ## 課前準備
@@ -113,3 +110,6 @@ VS code 可安裝在多種作業系統上 :
       >- [Azure Bot Service + LUIS + Line Bot 打造你的聊天機器人](https://medium.com/@starcaspar/azure-bot-service-luis-line-bot-%E6%89%93%E9%80%A0%E4%BD%A0%E7%9A%84%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-3bbfe9893fd0)  
       >- [Line Bot](http://studyhost.blogspot.com/2019/03/bot-frameworkline-bot.html)
 
+---
+###### tags: `GitHub` `課程`
+---
